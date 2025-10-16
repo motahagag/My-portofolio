@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.header{
+@apply flex items-center 
+       max-w-screen-6xl 
+       fixed top-0 left-0 
+       w-full h-30 z-40 
+       bg-gradient-to-b 
+       from-zinc-900 to-zinc-900/0
+}

@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+.container{
+    @apply px-4 mx-auto lg:px-8 xl:max-w-6xl;
+}
+.img-box{
+    @apply bg-zinc-700 overflow-hidden;
+}
+.img-cover{
+    @apply w-full h-full object-cover
+}
+.headline-1{
+    @apply max-w-max ;
+    background: -webkit-linear-gradient(0deg,#fafafa, #a1a1aa);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+.headline-1{
+    @apply text-lg leading-tight font-medium lg:text-[35px] lg:leading-[1.15]
+}
+.headline-2{
+    @apply  text-5xl leading-tight font-semibold lg:text-[33px] lg:leading-[1.15]
+}

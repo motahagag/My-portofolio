@@ -1,0 +1,21 @@
+Dear [Hiring Manager's Name],
+
+I hope this email finds you well.
+
+I am writing to express my interest in the [Job Title] position at [Company Name]. 
+I am a Full-Stack Software Engineer with experience in Laravel, PHP, React.js, and MySQL. 
+Through my academic background and professional experience, I have developed strong skills 
+in building scalable applications and solving technical challenges.
+
+Please find attached my CV for your review. I would be grateful for the opportunity to 
+discuss how my skills and projects align with your team’s needs.
+
+Thank you for your time and consideration.  
+I look forward to hearing from you.
+
+Best regards,  
+Mohamed Taha Hagag  
+Mobile: +20 111 720 5348  
+Email: mohamed.taha.shaban.hagag@gmail.com
+LinkedIn: linkedin.com/in/mohamed-taha-hagag-306ab8190/
+  
