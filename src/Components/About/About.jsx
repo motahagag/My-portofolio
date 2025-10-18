@@ -37,7 +37,7 @@ optimizing database performance, and integrating APIs.
                         </div>))
                     }
                     <img
-                    src='../../../public/1x/Asset 1.png'
+                    src='/1x/Asset 1.png'
                     alt='logo'
                     height={30}
                     width={30}

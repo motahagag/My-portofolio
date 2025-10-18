@@ -103,7 +103,7 @@ const Footer = () => {
 
             <div className='flex items-center justify-between pt-10 mb-8'>
              <a href='/' className='logo reveal-up'>
-                <img src='/public/1x/Asset 1.png' width={40} height={40} alt='Logo' className='md:w-[120px] md:h-[120px]' />
+                <img src='/1x/Asset 1.png' width={40} height={40} alt='Logo' className='md:w-[120px] md:h-[120px]' />
              </a>
              <p className='text-zinc-800 text-sm reveal-up'>
              &copy;2025&nbsp;

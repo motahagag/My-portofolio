@@ -7,43 +7,43 @@ import SoftSkillsCard from './SoftSkillsCard';
 const TechnicalSkills =[
 {
     label:'HTML',
-    img:'/src/icons/html-5.png',
+    img:'/icons/html-5.png',
     desc:'HTML',
     Progress: 75
 },
 {
     label:'css',
-    img:'/src/icons/css3.svg',
+    img:'/icons/css3.svg',
     desc:'CSS',
     Progress: 60
 },
 {
     label:'javascript',
-    img:'/src/icons/js.png',
+    img:'/icons/js.png',
     desc:'javascript',
     Progress: 55
 },
 {
     label:'ReactJS',
-    img:'/src/icons/React.png',
+    img:'/icons/React.png',
     desc:'React js',
     Progress:60
 },
 {
     label:'Laravel',
-    img:'/src/icons/laravel-logo-svgrepo-com.png',
+    img:'/icons/laravel-logo-svgrepo-com.png',
     desc:'Laravel',
     Progress:70
 },
 {
     label:'Php',
-    img:'/src/icons/php_5968332.png',
+    img:'/icons/php_5968332.png',
     desc:'React js',
     Progress:70
 },
 {
     label:'Mysql',
-    img:'/src/icons/MySql.png',
+    img:'/icons/MySql.png',
     desc:'Database',
     Progress:90
 },
@@ -52,43 +52,43 @@ const TechnicalSkills =[
 const SoftSkills=[
     {
         label:'Creativity',
-        img:'/src/icons/Creativity.jpg',
+        img:'/icons/Creativity.jpg',
         desc:'Strong ability to generate innovative ideas',
         Progress: 80   
     },
     {
         label:'Communication',
-        img:'/src/icons/communication.svg',
+        img:'/icons/communication.svg',
         desc:'Strong communication skills',
         Progress: 90   
     },
     {
         label:'Problem-Solving',
-        img:'/src/icons/ProblemSolving.svg',
+        img:'/icons/ProblemSolving.svg',
         desc:'problem-solving skills',
         Progress: 70   
     },
     {
         label:'Team-Work',
-        img:'/src/icons/TeamWork.svg',
+        img:'/icons/TeamWork.svg',
         desc:'Strong teamwork skills,collaborate effectively',
         Progress: 80   
     },
     {
         label:'Critical Thinking',
-        img:'/src/icons/CriticalThinking.jpg',
+        img:'/icons/CriticalThinking.jpg',
         desc:'Strong critical thinking skills',
         Progress: 70   
     },
     {
         label:'Decision making',
-        img:'/src/icons/Decision_Making.jpg',
+        img:'/icons/Decision_Making.jpg',
         desc:'Strong decision-making skills',
         Progress: 55   
     },
     {
         label:'Adaptability',
-        img:'/src/icons/Adaptability.jpg',
+        img:'/icons/Adaptability.jpg',
         desc:'adjust quickly to new challenges,technologies, work environments',
         Progress: 50   
     },

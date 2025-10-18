@@ -9,7 +9,7 @@ const Hero = () => {
             <div>
                 <div className='flex items-center gap-3'>
                     <figure className='img-box w-9 h-9 rounded-lg'>
-                        <img src='../../../src/assets/Imgs/mody.jpg' 
+                        <img src='/assets/Imgs/mody.jpg' 
                             width={40}
                             height={40}
                             alt='motahagag'
@@ -37,7 +37,7 @@ const Hero = () => {
                 <div className='flex items-center gap-3'>
                     <ButtonPrimary 
                     label='Download Cv'
-                    href='../../../public/Main_CV/Mohamed_Taha_Haga_CV.pdf'
+                    href='/Main_CV/Mohamed_Taha_Haga_CV.pdf'
                     target='_blank'
                     icon='download'
                     />
@@ -51,7 +51,7 @@ const Hero = () => {
             </div>
             <div className='hidden lg:block'>
                 <figure className='w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden'>
-                    <img src='../../../public/Mohamed.png'
+                    <img src='/Mohamed.png'
                           width={656}
                           height={100}
                           alt='Mohamed Taha Hagag'
