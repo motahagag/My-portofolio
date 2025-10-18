@@ -3,7 +3,7 @@ import ServicesCard from './ServicesCard/ServicesCard'
 
 const services = [
   {
-    imgSrc: '/Services/Back-end.svg',
+    imgSrc: '/Services/back-end.jpg',
     label: 'Back end',
     desc: 'Back-end web development'
   },
@@ -13,7 +13,7 @@ const services = [
     desc: 'Front-end web development'
   },
   {
-    imgSrc: '/Services/Full-Stack.svg',
+    imgSrc: '/Services/full-stack.jpg',
     label: 'Full-Stack development',
     desc: 'Full-Stack web development'
   }
