@@ -4,7 +4,7 @@ import { ButtonPrimary,ButtonOutline } from '../Button/Button'
 
 const Hero = () => {
   return (
-    <section id='home' className='pt-28 lg:pt-36 w-full min-h-screen bg-[#0f0f11] text-white flex items-center'>
+    <section id='home' className='max-w-screen-2xl pt-28 lg:pt-36 w-full min-h-screen bg-[#0f0f11] text-white flex items-center'>
         <div className='container mx-auto max-w-full grid lg:grid lg:grid-cols-2 items-center lg:gap-10 px-6'>
             <div>
                 <div className='flex items-center gap-3'>
