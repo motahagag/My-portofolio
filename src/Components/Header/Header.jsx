@@ -6,7 +6,7 @@ import { useState } from 'react';
 const Header = () => {
   const[navOpen,setNavOpen]=useState(false);
   return (
-    <header className='fixed top-0 left-0 w-full z-20 bg-gradient-to-b from-zinc-900 to-zinc-900/0'>
+    <header className=' max-w-screen-2xl fixed top-0 left-0 w-full z-20 bg-gradient-to-b from-zinc-900 to-zinc-900/0'>
         <div className='max-w-screen-2xl mx-auto  px-4 md:px-6 flex items-center justify-between h-30'>
             <h1>
             <a href='/' className='logo' >
